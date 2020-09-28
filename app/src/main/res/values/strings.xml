@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyFirstApp1</string>
+    <string name="textName">Difite un Nombre</string>
+    <string name="textLasname">Digite Apellido</string>
+    <string name="textDateP" />
+    <string name="textdate">Fecha</string>
+    <string name="btnClear">Limpiar</string>
+    <string name="btnSend">Enviar</string>
+    <string name="textDate1">Fecha:</string>
+    <string name="le_gusta_programar">¿Le gusta Programar?</string>
+    <string name="lenguaje">Lenguaje:</string>
+    <string name="cbJS">JS</string>
+    <string name="textGender">Genero:</string>
+    <string name="cbJava">Java</string>
+    <string name="cbPython">Python</string>
+    <string name="cbGoLand">Go Land</string>
+    <string name="rbYes">Si</string>
+    <string name="rbNo">No</string>
+    <string name="cbC">C/C++</string>
+</resources>
